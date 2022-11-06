@@ -46,25 +46,25 @@ PaddleOCR support a variety of cutting-edge algorithms related to OCR, and devel
 <details open>
 <summary>PP-OCRv3 Chinese model</summary>
 <div align="center">
-    <img src="doc/imgs_results/PP-OCRv3/ch/PP-OCRv3-pic001.jpg" width="800">
-    <img src="doc/imgs_results/PP-OCRv3/ch/PP-OCRv3-pic002.jpg" width="800">
-    <img src="doc/imgs_results/PP-OCRv3/ch/PP-OCRv3-pic003.jpg" width="800">
+    <img src="Readme_img/PP-OCRv3-pic001.jpg" width="800">
+    <img src="Readme_img/PP-OCRv3-pic002.jpg" width="800">
+    <img src="Readme_img/PP-OCRv3-pic003.jpg" width="800">
 </div>
 </details>
 
 <details open>
 <summary>PP-OCRv3 English model</summary>
 <div align="center">
-    <img src="doc/imgs_results/PP-OCRv3/en/en_1.png" width="800">
-    <img src="doc/imgs_results/PP-OCRv3/en/en_2.png" width="800">
+    <img src="Readme_img/en_1.png" width="800">
+    <img src="Readme_img/en_2.png" width="800">
 </div>
 </details>
 
 <details open>
 <summary>PP-OCRv3 Multilingual model</summary>
 <div align="center">
-    <img src="doc/imgs_results/PP-OCRv3/multi_lang/japan_2.jpg" width="800">
-    <img src="doc/imgs_results/PP-OCRv3/multi_lang/korean_1.jpg" width="800">
+    <img src="Readme_img/japan_2.jpg" width="800">
+    <img src="Readme_img/korean_1.jpg" width="800">
 </div>
 </details>
 
