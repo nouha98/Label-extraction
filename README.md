@@ -23,10 +23,6 @@ PaddleOCR aims to create multilingual, awesome, leading, and practical OCR tools
     <img src="Readme_img/en_4.png" width="800">
 </div>
 
-<div align="center">
-    <img src="Readme_img/00006737.jpg" width="800">
-</div>
-
 
 
 ## 🌟 Features
