@@ -3,7 +3,7 @@
 English | [简体中文](README_ch.md) | [हिन्दी](./doc/doc_i18n/README_हिन्द.md) | [日本語](./doc/doc_i18n/README_日本語.md) | [한국인](./doc/doc_i18n/README_한국어.md) | [Pу́сский язы́к](./doc/doc_i18n/README_Ру́сский_язы́к.md)
 
 <p align="center">
- <img src="./doc/PaddleOCR_log.png" align="middle" width = "600"/>
+ <img src="Readme_img/PaddleOCR_log.png" align="middle" width = "600"/>
 <p align="center">
 <p align="left">
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-dfd.svg"></a>
@@ -20,11 +20,11 @@ English | [简体中文](README_ch.md) | [हिन्दी](./doc/doc_i18n/REA
 PaddleOCR aims to create multilingual, awesome, leading, and practical OCR tools that help users train better models and apply them into practice.
 
 <div align="center">
-    <img src="./doc/imgs_results/PP-OCRv3/en/en_4.png" width="800">
+    <img src="Readme_img/en_4.png" width="800">
 </div>
 
 <div align="center">
-    <img src="./doc/imgs_results/ch_ppocr_mobile_v2.0/00006737.jpg" width="800">
+    <img src="Readme_img/00006737.jpg" width="800">
 </div>
 
 
